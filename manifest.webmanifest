@@ -1,0 +1,18 @@
+{
+  "name": "Ruang HPP — Cafe Finance",
+  "short_name": "Ruang HPP",
+  "description": "Kalkulasi HPP, harga jual, dan laporan keuangan kafe",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
